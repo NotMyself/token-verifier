@@ -1,0 +1,16 @@
+{
+  "name": "token-verifier",
+  "version": "1.0.0",
+  "description": "an example script that valudates a jwt token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bobby Johnson <bobby.johnson@gmail.com> (https://iamnotmyself.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "jsonwebtoken": "^8.4.0",
+    "jwks-rsa": "^1.4.0"
+  }
+}
